@@ -1,16 +1,12 @@
-# reasa
+# Zee Palm UI Code
 
-A new Flutter project.
+Reasa (Real Estate) App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes a complete functional Real Estate App UI with all the screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/232772605-28417607-edb7-4ea1-a89e-f2a3b7fad68b.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232772992-863fe59b-fda0-4a47-9928-e9c113ebe272.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232773256-c57615c7-4225-4623-9ba9-291dcff94890.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232775436-65fa4795-1034-446e-a217-2cac1fd9ace7.png" width="200" height="400" />
